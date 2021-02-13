@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+---
+
+_Note :_
+
+- This project is configured with prettier `npm run format`.
+- This project is configured with ESLint `npm run lint`.
+- The plugins used are `eslint:recommended`, `import/errors`, `react/recommended`, `jsx-a11y`, `prettier/react`
+- ESLint also validates `rules-of-hooks` and `exhaustive-deps` for prevent common react hook errors
+
+---
+
 ## Available Scripts
 
 In the project directory, you can run:
